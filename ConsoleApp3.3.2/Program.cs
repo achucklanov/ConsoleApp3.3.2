@@ -9,7 +9,7 @@
             bool HaveIPet = true;
             double MyShoeSize = 47;
 
-            Console.WriteLine("My name is " + MyName);
+            Console.WriteLine("My name is {0}", MyName);
             Console.WriteLine("My age is " + MyAge);
             Console.WriteLine("Do i have a pet? " + HaveIPet);
             Console.WriteLine("My shoes size is " + MyShoeSize);
